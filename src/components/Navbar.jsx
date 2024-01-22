@@ -48,10 +48,6 @@ const Navbar = () => {
       link: 'portfolio'
     },
     {
-      id: 4,
-      link: 'experience'
-    },
-    {
       id: 2,
       link: 'contact'
     }
